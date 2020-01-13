@@ -2,7 +2,6 @@ package fun.xiebug.exercise.baseConfig.service;
 
 /**
  * 描述: 不使用注解声明、注入 Bean，通过配置类注入
- *
  * @author YI
  * @date 2020-01-10 14:46
  */

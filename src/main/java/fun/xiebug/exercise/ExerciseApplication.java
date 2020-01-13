@@ -8,7 +8,6 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 @SpringBootApplication
 public class ExerciseApplication {
     public static void main(String[] args) {
-//        SpringApplication.run(ExerciseApplication.class, args);
         AnnotationConfigApplicationContext context =
                 new AnnotationConfigApplicationContext(JavaConfig.class);
 
